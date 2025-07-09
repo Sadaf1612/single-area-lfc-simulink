@@ -45,7 +45,7 @@ These values were tuned manually to ensure the frequency returned to nominal smo
 
 The system response shows a frequency drop at time = 0 due to the step load, followed by a smooth recovery as the PID controller stabilizes the system.
 
-![Scope Output](scope_output.png)
+
 
 ---
 
